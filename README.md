@@ -17,6 +17,8 @@ Este site foi desenvolvido com o objetivo de demonstrar projetos Front-End.
 
 ![App Screenshot](./img/site%20turma.PNG)
 
+Link:
+https://portifolio-front-end-turma-jb.vercel.app/
 
 ## Autores
 
